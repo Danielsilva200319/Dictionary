@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EGx1AWJJOyIXgoLLTP96uvBXukzeSeFKG2m/4XzG86DK96aEY6bZSEjzKU17fd/MnKPOyoXbixcwxUHlknCgEA==",
+  "dgSpecHash": "/+XMhMC5gTM8zow/R+5AlWUhfcuz5vfmX6ExD5QovfDIX4AW01AwZbYcK7bEyhE9eQRgc/WAsHd62IWBeNwtFA==",
   "success": true,
-  "projectFilePath": "/home/skylab-121/Desktop/Diccionary/Diccionary.csproj",
+  "projectFilePath": "/workspaces/Dictionary/Diccionary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,3 +13,17 @@
 /home/skylab-121/Desktop/Diccionary/obj/Debug/net7.0/Diccionary.pdb
 /home/skylab-121/Desktop/Diccionary/obj/Debug/net7.0/Diccionary.genruntimeconfig.cache
 /home/skylab-121/Desktop/Diccionary/obj/Debug/net7.0/ref/Diccionary.dll
+/workspaces/Dictionary/bin/Debug/net7.0/Diccionary
+/workspaces/Dictionary/bin/Debug/net7.0/Diccionary.deps.json
+/workspaces/Dictionary/bin/Debug/net7.0/Diccionary.runtimeconfig.json
+/workspaces/Dictionary/bin/Debug/net7.0/Diccionary.dll
+/workspaces/Dictionary/bin/Debug/net7.0/Diccionary.pdb
+/workspaces/Dictionary/obj/Debug/net7.0/Diccionary.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Dictionary/obj/Debug/net7.0/Diccionary.AssemblyInfoInputs.cache
+/workspaces/Dictionary/obj/Debug/net7.0/Diccionary.AssemblyInfo.cs
+/workspaces/Dictionary/obj/Debug/net7.0/Diccionary.csproj.CoreCompileInputs.cache
+/workspaces/Dictionary/obj/Debug/net7.0/Diccionary.dll
+/workspaces/Dictionary/obj/Debug/net7.0/refint/Diccionary.dll
+/workspaces/Dictionary/obj/Debug/net7.0/Diccionary.pdb
+/workspaces/Dictionary/obj/Debug/net7.0/Diccionary.genruntimeconfig.cache
+/workspaces/Dictionary/obj/Debug/net7.0/ref/Diccionary.dll
